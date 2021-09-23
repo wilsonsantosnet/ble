@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1E60AepHLSoZGEf1i7ZpSGUXBE1GH64Y8TWPxthG/hl3bpGUsCDbVH37TzuR6GRGheaRtm5aY7gNf6TndI8vQ==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\blueberry\\Source\\Blueberry.Desktop.WindowsApp.Bluetooth\\Blueberry.Desktop.WindowsApp.Bluetooth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

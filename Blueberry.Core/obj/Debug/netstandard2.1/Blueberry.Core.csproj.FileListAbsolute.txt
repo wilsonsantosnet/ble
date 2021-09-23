@@ -1,0 +1,10 @@
+C:\projetos\blueberry\Source\Blueberry.Core\bin\Debug\netstandard2.1\Blueberry.Core.deps.json
+C:\projetos\blueberry\Source\Blueberry.Core\bin\Debug\netstandard2.1\Blueberry.Core.dll
+C:\projetos\blueberry\Source\Blueberry.Core\bin\Debug\netstandard2.1\Blueberry.Core.pdb
+C:\projetos\blueberry\Source\Blueberry.Core\obj\Debug\netstandard2.1\Blueberry.Core.csproj.AssemblyReference.cache
+C:\projetos\blueberry\Source\Blueberry.Core\obj\Debug\netstandard2.1\Blueberry.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\blueberry\Source\Blueberry.Core\obj\Debug\netstandard2.1\Blueberry.Core.AssemblyInfoInputs.cache
+C:\projetos\blueberry\Source\Blueberry.Core\obj\Debug\netstandard2.1\Blueberry.Core.AssemblyInfo.cs
+C:\projetos\blueberry\Source\Blueberry.Core\obj\Debug\netstandard2.1\Blueberry.Core.csproj.CoreCompileInputs.cache
+C:\projetos\blueberry\Source\Blueberry.Core\obj\Debug\netstandard2.1\Blueberry.Core.dll
+C:\projetos\blueberry\Source\Blueberry.Core\obj\Debug\netstandard2.1\Blueberry.Core.pdb

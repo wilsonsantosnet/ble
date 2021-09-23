@@ -1,0 +1,17 @@
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\bin\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.exe
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\bin\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.deps.json
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\bin\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.runtimeconfig.json
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\bin\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.runtimeconfig.dev.json
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\bin\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.dll
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\bin\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.pdb
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\bin\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.dll
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\bin\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.pdb
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\obj\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.csproj.AssemblyReference.cache
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\obj\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\obj\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.AssemblyInfoInputs.cache
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\obj\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.AssemblyInfo.cs
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\obj\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.csproj.CoreCompileInputs.cache
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\obj\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.csproj.CopyComplete
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\obj\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.dll
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\obj\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.pdb
+C:\projetos\blueberry\Source\Blueberry.Desktop.ConsolePlayground\obj\Debug\netcoreapp3.0\Blueberry.Desktop.ConsolePlayground.genruntimeconfig.cache

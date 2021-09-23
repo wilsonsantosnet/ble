@@ -1,0 +1,17 @@
+C:\projetos\blueberry\Source\server.ble\obj\Debug\netcoreapp3.1\server.ble.csproj.AssemblyReference.cache
+C:\projetos\blueberry\Source\server.ble\obj\Debug\netcoreapp3.1\server.ble.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\blueberry\Source\server.ble\obj\Debug\netcoreapp3.1\server.ble.AssemblyInfoInputs.cache
+C:\projetos\blueberry\Source\server.ble\obj\Debug\netcoreapp3.1\server.ble.AssemblyInfo.cs
+C:\projetos\blueberry\Source\server.ble\obj\Debug\netcoreapp3.1\server.ble.csproj.CoreCompileInputs.cache
+C:\projetos\blueberry\Source\server.ble\bin\Debug\netcoreapp3.1\server.ble.exe
+C:\projetos\blueberry\Source\server.ble\bin\Debug\netcoreapp3.1\server.ble.deps.json
+C:\projetos\blueberry\Source\server.ble\bin\Debug\netcoreapp3.1\server.ble.runtimeconfig.json
+C:\projetos\blueberry\Source\server.ble\bin\Debug\netcoreapp3.1\server.ble.runtimeconfig.dev.json
+C:\projetos\blueberry\Source\server.ble\bin\Debug\netcoreapp3.1\server.ble.dll
+C:\projetos\blueberry\Source\server.ble\bin\Debug\netcoreapp3.1\server.ble.pdb
+C:\projetos\blueberry\Source\server.ble\bin\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.dll
+C:\projetos\blueberry\Source\server.ble\bin\Debug\netcoreapp3.1\Blueberry.Desktop.WindowsApp.Bluetooth.pdb
+C:\projetos\blueberry\Source\server.ble\obj\Debug\netcoreapp3.1\server.ble.csproj.CopyComplete
+C:\projetos\blueberry\Source\server.ble\obj\Debug\netcoreapp3.1\server.ble.dll
+C:\projetos\blueberry\Source\server.ble\obj\Debug\netcoreapp3.1\server.ble.pdb
+C:\projetos\blueberry\Source\server.ble\obj\Debug\netcoreapp3.1\server.ble.genruntimeconfig.cache

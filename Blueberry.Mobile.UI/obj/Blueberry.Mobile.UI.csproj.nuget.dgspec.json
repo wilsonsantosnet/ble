@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projetos\\blueberry\\Source\\Blueberry.Mobile.UI\\Blueberry.Mobile.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\projetos\\blueberry\\Source\\Blueberry.Core\\Blueberry.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projetos\\blueberry\\Source\\Blueberry.Core\\Blueberry.Core.csproj",
+        "projectName": "Blueberry.Core",
+        "projectPath": "C:\\projetos\\blueberry\\Source\\Blueberry.Core\\Blueberry.Core.csproj",
+        "packagesPath": "C:\\Users\\wdossantos\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\blueberry\\Source\\Blueberry.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wdossantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Dna.Framework": {
+              "target": "Package",
+              "version": "[1.0.7.15, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projetos\\blueberry\\Source\\Blueberry.Mobile.UI\\Blueberry.Mobile.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\projetos\\blueberry\\Source\\Blueberry.Mobile.UI\\Blueberry.Mobile.UI.csproj",
+        "projectName": "Blueberry.Mobile.UI",
+        "projectPath": "C:\\projetos\\blueberry\\Source\\Blueberry.Mobile.UI\\Blueberry.Mobile.UI.csproj",
+        "packagesPath": "C:\\Users\\wdossantos\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\blueberry\\Source\\Blueberry.Mobile.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wdossantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\projetos\\blueberry\\Source\\Blueberry.Core\\Blueberry.Core.csproj": {
+                "projectPath": "C:\\projetos\\blueberry\\Source\\Blueberry.Core\\Blueberry.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.815419, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

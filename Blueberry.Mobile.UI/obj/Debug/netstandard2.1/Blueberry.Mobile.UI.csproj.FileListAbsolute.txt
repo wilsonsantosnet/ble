@@ -1,0 +1,16 @@
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\bin\Debug\netstandard2.1\Blueberry.Mobile.UI.deps.json
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\bin\Debug\netstandard2.1\Blueberry.Mobile.UI.dll
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\bin\Debug\netstandard2.1\Blueberry.Mobile.UI.pdb
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\bin\Debug\netstandard2.1\Blueberry.Core.dll
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\bin\Debug\netstandard2.1\Blueberry.Core.pdb
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\Blueberry.Mobile.UI.csproj.AssemblyReference.cache
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\Blueberry.Mobile.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\Blueberry.Mobile.UI.AssemblyInfoInputs.cache
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\Blueberry.Mobile.UI.AssemblyInfo.cs
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\Blueberry.Mobile.UI.csproj.CoreCompileInputs.cache
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\XamlC.stamp
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\Blueberry.Mobile.UI.csproj.CopyComplete
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\Blueberry.Mobile.UI.dll
+C:\projetos\blueberry\Source\Blueberry.Mobile.UI\obj\Debug\netstandard2.1\Blueberry.Mobile.UI.pdb

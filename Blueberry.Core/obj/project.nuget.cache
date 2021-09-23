@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "H5DDVTrsXOkfNZowvt1GkPofmZT1F/wtliWWnx90R1Jba1fvXEruHdN7qSzfb+c+zOp0TIi5AOv2iyp4AH7aXg==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\blueberry\\Source\\Blueberry.Core\\Blueberry.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wdossantos\\.nuget\\packages\\dna.framework\\1.0.7.15\\dna.framework.1.0.7.15.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.0.0\\microsoft.extensions.configuration.binder.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\2.0.0\\microsoft.extensions.configuration.environmentvariables.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\2.0.0\\microsoft.extensions.configuration.fileextensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.configuration.json\\2.0.0\\microsoft.extensions.configuration.json.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.0.0\\microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.0.0\\microsoft.extensions.fileproviders.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\2.0.0\\microsoft.extensions.fileproviders.physical.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\2.0.0\\microsoft.extensions.filesystemglobbing.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.logging\\2.0.0\\microsoft.extensions.logging.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.logging.configuration\\2.0.0\\microsoft.extensions.logging.configuration.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.logging.console\\2.0.0\\microsoft.extensions.logging.console.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.logging.debug\\2.0.0\\microsoft.extensions.logging.debug.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.0.0\\microsoft.extensions.options.configurationextensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

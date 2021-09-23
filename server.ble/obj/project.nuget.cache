@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hnMKyu5jytonZBc9Y0B6vILA7JMtPUelDLUV9BorQ5n2D3z5r5fTjDrtQ0aQhF9+tSQ/aXVlx9l2KCVX241D2g==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\blueberry\\Source\\server.ble\\server.ble.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\wdossantos\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

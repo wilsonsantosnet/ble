@@ -1,0 +1,10 @@
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.deps.json
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.dll
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\bin\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.pdb
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.csproj.AssemblyReference.cache
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.AssemblyInfoInputs.cache
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.AssemblyInfo.cs
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.csproj.CoreCompileInputs.cache
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.dll
+C:\projetos\blueberry\Source\Blueberry.Desktop.WindowsApp.Bluetooth\obj\Debug\netcoreapp3.0\Blueberry.Desktop.WindowsApp.Bluetooth.pdb
